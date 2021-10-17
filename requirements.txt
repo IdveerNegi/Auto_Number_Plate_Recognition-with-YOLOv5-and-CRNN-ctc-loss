@@ -10,6 +10,6 @@ cycler==0.10.0
 kiwisolver==1.0.1
 matplotlib==3.0.2
 pyparsing==2.3.0
-torch==0.4.1
-torchfile==0.1.0
+torch
+torchfile
 torchvision==0.2.1
